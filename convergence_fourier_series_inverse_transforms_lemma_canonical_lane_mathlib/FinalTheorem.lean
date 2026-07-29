@@ -1,0 +1,9 @@
+import convergence_fourier_series_inverse_transforms_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace convergence_fourier_series_inverse_transforms_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end convergence_fourier_series_inverse_transforms_lemma_canonical_lane_mathlib
+end HautevilleHouse
